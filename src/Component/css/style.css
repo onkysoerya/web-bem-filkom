@@ -1,0 +1,35 @@
+
+.slider{
+    text-align: center;
+    height: 575px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+}
+.pageSambutan{
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #ffffff;
+}
+.txtJudul{
+    font-family: 'Playfair Display';
+    font-size: 40px;
+    margin-left:55px;
+    margin-top: 105px;
+    color: #626262;
+}
+.imgSambutan{
+    height: 100px;
+    margin-left: 10px;
+}
+.txtSambutan{
+    height: 100px;
+    margin-left: 10px;
+    margin-top:50px;
+    font-family: 'Poppins'
+}
+.pageBph{
+    background-color:#0C2340;
+    height: 500px;
+    
+}
